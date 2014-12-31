@@ -2,7 +2,7 @@
 Contributors: freediver
 Tags: shellshock, shell shock, security
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 
 Test if the server is affected by the Shellshock vulnerability.
