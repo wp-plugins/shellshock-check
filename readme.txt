@@ -1,5 +1,5 @@
 === Shellshock Check ===
-Contributors: freediver
+Contributors: managewp,freediver
 Tags: shellshock, shell shock, security
 Requires at least: 3.0
 Tested up to: 4.1
